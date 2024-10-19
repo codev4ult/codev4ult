@@ -1,10 +1,10 @@
-# ||| <> CODEVAULT </> |||
+# CODEVAULT 
 
-# Technologies I am involved in and studying 
+## Technologies I am involved in and studying 
 
 ### Languages and Tools: 
 
-<p align="left"> 
+<p align="center"> 
    <!-- JavaScript --> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    <!-- PHP --> 
